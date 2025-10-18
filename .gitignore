@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+venv/
+.env
+*.log
+node_modules/
+dist/
+build/
+artifacts/
+*.joblib
+*.pkl
+*.h5
+*.pt
+*.onnx
+*.zip
+*.tar.gz
