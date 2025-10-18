@@ -1,0 +1,10 @@
+{
+  "DEFAULT": {
+    "nama": "Penyakit Tanaman",
+    "deskripsi": "Info rinci untuk kelas ini belum tersedia.",
+    "pengobatan": "Pisahkan dan buang daun/tanaman yang terinfeksi parah jauh dari kebun. Bersihkan alat setelah digunakan. Konsultasikan dengan POPT/penyuluh setempat bila gejala berat.",
+    "perawatan": "Lakukan monitoring rutin terhadap tanaman. Jaga kebersihan area tanam dan pastikan drainase yang baik. Berikan nutrisi yang seimbang sesuai kebutuhan tanaman.",
+    "pencegahan": "Gunakan benih/bibit sehat, kebersihan lahan, dan rotasi tanaman 1–2 musim. Perbaiki sirkulasi udara (jarak tanam/pemangkasan) dan kelola kelembapan. Penyiraman pagi hari dan pemupukan berimbang."
+  }
+}
+
